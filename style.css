@@ -1,0 +1,179 @@
+.header1{
+    position: absolute;
+    width: 1920px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+
+    background: #EEEFF1;;
+}
+
+.div1{
+    position: absolute;
+    width: 84px;
+    height: 16px;
+    left: 399px;
+    top: 79px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #34547A;
+}
+
+.div2{
+    position: absolute;
+    width: 100px;
+    height: 16px;
+    left: 525px;
+    top: 79px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+}
+
+.div3{
+    position: absolute;
+    width: 74px;
+    height: 16px;
+    left: 667px;
+    top: 79px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+}
+
+.div4{
+    position: absolute;
+    width: 86px;
+    height: 16px;
+    left: 783px;
+    top: 79px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+}
+
+.div5{
+    position: absolute;
+    width: 99px;
+    height: 16px;
+    left: 911px;
+    top: 79px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+}
+
+.title1{
+    position: absolute;
+    width: 541px;
+    height: 45px;
+    left: 399px;
+    top: 257px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+
+    color: #000000;
+}
+
+.text1{
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 400px;
+    top: 362px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #727272;
+}
+
+.knopka{
+    position: absolute;
+    width: 225px;
+    height: 65px;
+    left: 399px;
+    top: 494px;
+    background: #34547A;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #FFFFFF; 
+}
+
+.title2{
+    position: absolute;
+    width: 403px;
+    height: 30px;
+    left: 758px;
+    top: 812px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.text2{
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 690px;
+    top: 892px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #727272;
+}
