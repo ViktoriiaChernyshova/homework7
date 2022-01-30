@@ -282,14 +282,12 @@
     color: #727272;
 }
 
-.img7{
+.video{
     position: absolute;
     width: 1110px;
     height: 600px;
     left: 405px;
     margin-top: 304px;
-    
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65));
 }
 
 .footer{
